@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MarkerMapsWisata</string>
+    <string name="title_activity_maps_lokasi">Map</string>
+</resources>
